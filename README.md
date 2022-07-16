@@ -12,3 +12,9 @@
 
 ### Beinfits
  - Code will resume course download from last interrupt.
+
+### How to Get Cookies Data
+ - Click on the options in the google chrome (top right with 3 vertical dots).
+ - After this, click on more tools followed by Developer Tools (you can also reach here by using the keyboard combination — ctrl+shift+I).
+ - Now once you’ve gained access to the developer tools, navigate to the Application tab, and copy the value of two cookies from there named li_at and JSESSIONID respectively.
+ - create a cookies.txt file to a place you want to download your courses then paste in the values of li_at and JSESSIONID as shown below.
